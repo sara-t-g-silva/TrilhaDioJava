@@ -1,2 +1,2 @@
-# TrilhaDioJava
-Repositório para a prática de exercícios da trilha DIO com java
+#  QA GFT
+Repositório para a prática de exercícios da trilha DIO 
