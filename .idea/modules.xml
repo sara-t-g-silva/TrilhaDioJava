@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticoes/EstruturaDeRepeticoes.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticoes/EstruturaDeRepeticoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPoo/JavaPoo.iml" filepath="$PROJECT_DIR$/JavaPoo/JavaPoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrilhaDioJava.iml" filepath="$PROJECT_DIR$/TrilhaDioJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistemaSmartTv/sistemaSmartTv.iml" filepath="$PROJECT_DIR$/sistemaSmartTv/sistemaSmartTv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiposDeVariaveis/tiposDeVariaveis.iml" filepath="$PROJECT_DIR$/tiposDeVariaveis/tiposDeVariaveis.iml" />
+    </modules>
+  </component>
+</project>
