@@ -13,7 +13,7 @@ public class QualTurno {
             case 'M': 
             System.out.println("Bom Dia!");
             break;
-
+          
             case 'V':
             System.out.println("Boa Tarde!");
             break;
@@ -25,6 +25,7 @@ public class QualTurno {
             case 'T':
             System.out.println("Valor Inválido!");
             break;
+            
 
         } 
         

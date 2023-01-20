@@ -1,3 +1,5 @@
+package ExercíciosFixacao;
+
 import java.util.Scanner;
 
 public class TesteCarro {
@@ -6,11 +8,12 @@ public class TesteCarro {
 
         Scanner scan = new Scanner(System.in);
         Carro carroTeste = new Carro();
+        
 
         carroTeste.capacidadeTanque = scan.nextInt();
-        carroTeste.valorGasolina = scan.nextDouble();
+        
 
-        System.out.println(carroTeste.valorTotal(carroTeste.valorGasolina));
+        System.out.println(carroTeste.valorTotal(3.50));
 
         
         

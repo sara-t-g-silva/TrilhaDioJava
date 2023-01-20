@@ -1,3 +1,5 @@
+package ExercíciosFixacao;
+
 public class Carro {
 
 
@@ -5,9 +7,16 @@ public class Carro {
     String modelo;
     int capacidadeTanque;
     double valorGasolina;
+    
 
     Carro(){
 
+    }
+
+    Carro(String cor, String modelo, int capacidadeTanque){
+        this.cor = cor;
+        this.modelo = modelo;
+        this.capacidadeTanque = capacidadeTanque;
     }
 
     public String getCor() {
@@ -39,9 +48,15 @@ public class Carro {
         this.capacidadeTanque = capacidadeTanque;
     }
 
-    public double valorTotal(double valorGasolina){
-        return capacidadeTanque*valorGasolina;
+    public double valorTotal(double valorGasolina){ // valorGasolina é uma variável que está sendo declarada no próprio método!
+        return valorGasolina = capacidadeTanque*valorGasolina;
+        
     }
+
+
+
+
+
 
 
    
